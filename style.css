@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to bottom right, #00bfff, #ff00ff);
+}
+
+#formularioInicioSesion {
+    align-items: center;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
